@@ -16,10 +16,8 @@ Cloud Engineer
 [![Email](https://img.shields.io/badge/Email-2563eb?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZwogIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICB3aWR0aD0iMjQiCiAgaGVpZ2h0PSIyNCIKICB2aWV3Qm94PSIxIDEgMjIgMjIiCiAgZmlsbD0iI2ZmZmZmZiIKICBjbGFzcz0iaWNvbiBpY29uLXRhYmxlciBpY29ucy10YWJsZXItZmlsbGVkIGljb24tdGFibGVyLW1haWwiCj4KICAKICA8cGF0aCBkPSJNMjIgNy41MzV2OS40NjVhMyAzIDAgMCAxIC0yLjgyNCAyLjk5NWwtLjE3NiAuMDA1aC0xNGEzIDMgMCAwIDEgLTIuOTk1IC0yLjgyNGwtLjAwNSAtLjE3NnYtOS40NjVsOS40NDUgNi4yOTdsLjExNiAuMDY2YTEgMSAwIDAgMCAuODc4IDBsLjExNiAtLjA2Nmw5LjQ0NSAtNi4yOTd6IiAvPgogIDxwYXRoIGQ9Ik0xOSA0YzEuMDggMCAyLjAyNyAuNTcgMi41NTUgMS40MjdsLTkuNTU1IDYuMzdsLTkuNTU1IC02LjM3YTIuOTk5IDIuOTk5IDAgMCAxIDIuMzU0IC0xLjQybC4yMDEgLS4wMDdoMTR6IiAvPgo8L3N2Zz4%3D)](mailto:federico@baldan.dev)
 
 <p>
-  <a href="https://federico.baldan.dev">
-    <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="signature.png">
-      <img src="signature-animated.webp" alt="Federico Baldan, website" width="150">
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="signature.png">
+    <img src="signature-animated.webp" alt="Federico Baldan" width="150">
+  </picture>
 </p>
