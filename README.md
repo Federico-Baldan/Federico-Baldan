@@ -1,4 +1,4 @@
-# Federico Baldan
+# Federico Baldan <img src="https://media.giphy.com/media/Qu10q8QxXtHkA73aCo/giphy.gif" width="64" align="right" alt="A cat in a wizard hat typing on a keyboard"><img src="spacer.png" width="1" height="72" align="absmiddle" alt="">
 
 Cloud Engineer
 
